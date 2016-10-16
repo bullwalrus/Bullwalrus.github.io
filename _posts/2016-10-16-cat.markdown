@@ -13,6 +13,6 @@ Cat of the day
 <body>
 <img src="http://www.publicdomainpictures.net/pictures/80000/velka/black-and-white-cat-1395009210V6g.jpg"/>
 </body>
-</html
+</html>
 
 
