@@ -4,7 +4,10 @@ layout: default
 
 <div class="home">
 
-  <h1 class="page-heading">What is cat? What do you define as cat?</h1>
+  <h1 class="page-heading">What is cat? What do you define as cat?
+    <a href="http://goo.gl/8kM9mM"> Feeling Unmotivated?</a>
+  
+  </h1>
 
   <ul class="post-list">
     {% for post in site.posts %}
@@ -12,6 +15,7 @@ layout: default
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
         <h2>
+   
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
         </h2>
       </li>
