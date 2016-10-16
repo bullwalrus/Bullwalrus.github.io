@@ -4,7 +4,7 @@ title:  "Welcome to WHATTHECAT"
 date:   Unknown
 categories: catness
 ---
-<!DOCTYPE html>
+
 <html> 
 <head>
 <title>Cat of the Day</title>
