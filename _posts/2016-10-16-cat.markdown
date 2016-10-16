@@ -12,6 +12,7 @@ Cat of the day
 </head>
 <body>
 <img src="http://www.publicdomainpictures.net/pictures/80000/velka/black-and-white-cat-1395009210V6g.jpg"/>
+<h3>Cat of the day</h3>
 I do not condome the use of weed.
 </body>
 </html>
