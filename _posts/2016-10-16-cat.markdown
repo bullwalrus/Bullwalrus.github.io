@@ -4,9 +4,15 @@ title:  "Welcome to whatthecat"
 date:   2016-10-16
 categories: catness
 ---
-
+<html>
+<head>
+<title>
 Cat of the day
-
-
+</title>
+</head>
+<body>
+<img src="http://www.publicdomainpictures.net/pictures/80000/velka/black-and-white-cat-1395009210V6g.jpg"/>
+</body>
+</html
 
 
