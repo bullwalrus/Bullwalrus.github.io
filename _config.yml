@@ -6,16 +6,15 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-email: your-email@domain.com
+title: Catastic
+email: Nekoismyfavoritecat@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Hello weirdos I've invited to my website, I don't know why I told you about it but how else would one brag? :3
+  This site is dedicated to the concept of "CAT"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://whatthecat.net" # the base hostname & protocol for your site
+twitter_username: Neko
+github_username:  Bullwalrus
 
 # Build settings
 markdown: kramdown
