@@ -10,7 +10,7 @@ title: Catastic
 email: Nekoismyfavoritecat@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hello weirdos I've invited to my website, I don't know why I told you about it but how else would one brag? :3
-  This site is dedicated to the concept of "CAT"
+  This site is dedicated to the concept of "cat"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://whatthecat.net" # the base hostname & protocol for your site
 twitter_username: Neko
