@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Cat Stretching"
-date:   2016-10-16
+date:   2016-10-18
 categories: catness
 ---
 
