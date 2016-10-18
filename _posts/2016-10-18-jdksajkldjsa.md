@@ -1,13 +1,13 @@
 ---
 layout: post
-title:  "Cat Stretching"
+title:  "Friend's Cats"
 date:   2016-10-18
 categories: catness
 ---
 
 <html>
 <body>
-<img src="http://www.publicdomainpictures.net/pictures/150000/velka/comfortable-cat.jpg"/>
+<img src="https://api.asm.skype.com/v1/objects/0-cus-d2-c779bbd680cc31b207809a24a3a082ae/views/imgpsh_fullsize"/>
 <h4>"This cat looks nice laying down" </h4>
 </body>
 </html>
