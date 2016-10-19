@@ -7,7 +7,7 @@ categories: catness
 
 <html>
 <body>
-<img src="https://api.asm.skype.com/v1/objects/0-cus-d2-c779bbd680cc31b207809a24a3a082ae/views/imgpsh_fullsize"/>
+<img src="http://cdn2-www.cattime.com/assets/uploads/gallery/25-funny-cat-memes/funny-cat-meme.jpg"/>
 <h4>One of my friend's awesome cats</h4>
 </body>
 </html>
