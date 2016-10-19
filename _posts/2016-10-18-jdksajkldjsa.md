@@ -11,5 +11,4 @@ categories: catness
 <h4>One of my friend's awesome cats"</h4>
 </body>
 </html>
-<h5>And other cool things, turns out I can embed this website into mine.</h5>
-<iframe src="http://www.staggeringbeauty.com/" style="border: 1px inset #ddd" width="498" height="598"></iframe>
+
