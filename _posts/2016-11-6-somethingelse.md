@@ -8,6 +8,7 @@ categories: catness
 <body>
 <h3>HOT CORN ON A COB</h3>
 <img src="http://www.publicdomainpictures.net/pictures/30000/velka/annoyed-cat.jpg"/>
-<h1>Visit cornhub.com (I don't own it, it's just HOT)</h1>
+<h1>THIS WEBSITE IS SO DUMB, WHY DO I OWN IT
+</h1>
 </body>
 </html>
