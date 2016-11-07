@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Cat of The Day"
+title:  "uhhhhhhhh"
 date:   2016-10-16
 categories: catness
 ---
