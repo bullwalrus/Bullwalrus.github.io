@@ -13,7 +13,7 @@ description: > # this means to ignore newlines until "baseurl:"
   This site is dedicated to the concept of "cat"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://whatthecat.net" # the base hostname & protocol for your site
-twitter_username: CatasticNeck
+twitter_username: CatasticNeko
 github_username:  Bullwalrus
 
 # Build settings
