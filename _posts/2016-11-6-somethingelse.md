@@ -6,7 +6,7 @@ categories: catness
 ---
 <html>
 <body>
-<h3>HOT CORN ON A CB</h3>
+<h3>HOT CORN ON A C0B</h3>
 <div id="musicpls">
 <audio src="https://www.dropbox.com/s/up5hnasiheyoaeo/Mickey%20Mouse%20Clubhouse%20Theme%20Song%20HD%20%20%20Lyrics.mp3" controls preload="auto" autobuffer autoplay></audio>
 </div>
