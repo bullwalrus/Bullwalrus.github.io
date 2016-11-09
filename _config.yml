@@ -4,9 +4,7 @@
 # which you are expected to set up once and rarely need to edit after that.
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'jekyll serve'. If you change this file, please restart the server process.
-<html>
-<audio src="http://www.30milkshakes.com/mp3blog/cyndi_lauper_-_girls_just_want_to_have_fun.mp3" controls preload="auto" autobuffer autoplay></audio>
-</html>
+
 # Site settings
 title: Catastic
 email: Nekoismyfavoritecat@gmail.com
