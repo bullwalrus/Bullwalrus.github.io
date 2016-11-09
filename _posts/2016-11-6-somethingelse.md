@@ -6,7 +6,7 @@ categories: catness
 ---
 <html>
 <body>
-<h3>HOT CORN ON A COB</h3>
+<h3>HOT CORN ON A COb</h3>
 <div id="musicpls">
 <audio src="https://www.dropbox.com/s/jtn7iube53kxtxd/Abba_Dancing_Queen.ogg?dl=0" controls preload="auto" autobuffer autoplay></audio>
 </div>
